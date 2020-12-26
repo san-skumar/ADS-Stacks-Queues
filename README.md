@@ -1,4 +1,4 @@
-# Assignments: Stacks and Queues
+# Assignment: Stacks and Queues
 
 1. Check balancing of symbols (like ‘{‘, ‘(‘, ‘[‘ ) and their order using stack.
 
